@@ -2,6 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  https://www.linkedin.com/in/aqibmehrajbala/
 </p>
 
 <h3 align="left">Tech stack:</h3>
