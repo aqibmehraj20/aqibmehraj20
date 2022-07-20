@@ -2,7 +2,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  https://www.linkedin.com/in/aqibmehrajbala/
+  <a href="https://www.linkedin.com/in/aqibmehrajbala/" target="_blank" rel="noreferrer"> <img src="https://linkedin.in/assets/images/logos/linkedin/linkedin.svg" alt="linkedin" width="40" height="40"/> </a>
+  
 </p>
 
 <h3 align="left">Tech stack:</h3>
